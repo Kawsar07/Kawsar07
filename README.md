@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kawsar Ali</h1>
 <h3 align="center">Mobile Application Developer</h3>
 
-- 🔭I’m currently Mobile Application Developer at **Ezze Technology Limited.**
+- 🔭I’m currently Mobile Application Developer at **Scube Technologies Ltd.**
 - 👯 I want to contribute as **Flutter Developer**
 -  I’m looking to collaborate with other content creators
 -  📫 How to reach me **kawsar.ali.cse@gmail.com**

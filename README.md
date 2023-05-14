@@ -1,4 +1,5 @@
-![68747470733a2f2f692e696d6775722e636f6d2f50784556435a672e706e67](https://user-images.githubusercontent.com/59552845/173229554-9bb0a89c-86cc-48cd-8047-0aae33954c4e.png)
+ <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="500" height="320" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedghaly15&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedghaly15" /> </p>
 <h1 align="center">Hi 👋, I'm Kawsar Ali</h1>
 <h3 align="center">Mobile Application Developer</h3>
 
@@ -6,6 +7,7 @@
 - 👯 I want to contribute as **Flutter Developer**
 -  I’m looking to collaborate with other content creators
 -  📫 How to reach me **kawsar.ali.cse@gmail.com**
+-  📄 Know about my experiences [https://www.linkedin.com/in/kawsar07/](https://www.linkedin.com/in/kawsar07/)
 
 
 <h3 align="left">Connect with me:</h3>

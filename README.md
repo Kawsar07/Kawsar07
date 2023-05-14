@@ -1,7 +1,23 @@
+<h2 align="center">Welcome To Kawsar Ali Profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
+
+<!-- <h3 align="center">A Mobile Application Developer With A Passion For Cross-Platform Development Using Flutter</h3>
+ -->
+ 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile%20Application%20Developer%20With%20A%20Passion%20For;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=1000&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cross-Platform%20Development%20Using%20Flutter;Improve%20Constantly,%20Code%20Better&font=Fira%20Code&center=true&width=1000&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
+
+
+
  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="500" height="320" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedghaly15&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedghaly15" /> </p>
-<h1 align="center">Hi 👋, I'm Kawsar Ali</h1>
-<h3 align="center">Mobile Application Developer</h3>
 
 - 🔭I’m currently Mobile Application Developer at **Scube Technologies Ltd.**
 - 👯 I want to contribute as **Flutter Developer**
